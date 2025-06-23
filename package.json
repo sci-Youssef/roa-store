@@ -1,0 +1,50 @@
+{
+  
+  "name": "store-dada",
+  
+  "version": "1.0.0",
+  
+  "type": "module",
+  
+  "main": "server.js",
+  
+  "scripts": {
+  
+    
+  "start": "node server.js",
+  
+    
+  "test": "echo \"Error: no test specified\" && exit 1"
+  
+  },
+  
+  "keywords": [],
+  
+  "author": "",
+  
+  "license": "ISC",
+  
+  "description": "",
+  
+  "dependencies": {
+  
+    
+  "@vercel/speed-insights": "^1.2.0",
+  
+    
+  "dotenv": "^16.5.0",
+  
+    
+  "express": "^5.1.0",
+  
+    
+  "pg": "^8.16.2",
+  
+    
+  "postgres": "^3.4.7",
+  
+    
+  "swiper": "^11.2.8"
+  
+  }
+}
